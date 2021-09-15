@@ -1,7 +1,7 @@
 &RUN
 iexpnr     =  _______
 runtime    =  36000
-dtmax      =  1.
+dtmax      =  10.
 ladaptive  =  .true.
 irandom    =  43
 randthl    =  0.1
