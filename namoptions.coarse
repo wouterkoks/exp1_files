@@ -28,7 +28,7 @@ z0         = 0.1
 wtsurf     = ______
 wqsurf     =  0
 isurf      = 4
-wtvsurf(1) = 0.001
+wsvsurf(1) = 0.001
 /
 &DYNAMICS
 cu         =  1.
